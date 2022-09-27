@@ -18,7 +18,7 @@
  </div>
  <div align="center">
    </br>
-- 🌱 I’m currently learning Java, C#, .NET and SQL
+- 🌱 I’m currently learning Java, C#, .NET, Python and SQL
   </br>
 - 📫 How to reach me: kaio.svalls@gmail.com
 
