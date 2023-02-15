@@ -23,8 +23,8 @@
 ##
 <div align="center">
   <a href="https://github.com/KaioValls">
-  <img align="center" width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioValls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" width="42%" height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiovalls&layout=compact&theme=tokyonight&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=KaioValls&layout=compact&langs_count=7&theme=tokyonight"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioValls&layout=compact&langs_count=7&theme=tokyonight"/>
+  
 </div>
 
 ##
