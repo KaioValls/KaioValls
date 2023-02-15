@@ -9,7 +9,7 @@
 - 📫 How to reach me: kaio.svalls@gmail.com
 
   </br>
-- 😄 Pronouns: he/him
+- 😄 Also learning Networking Fundamentals and Security and Data Treatment 
 </br>
 - ⚡ Fun fact: I Love to play videogames. (Mainly CS GO)</br>
 <br>
