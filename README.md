@@ -6,7 +6,7 @@
    </br>
 - 🌱 I’m currently learning Java, C#, .NET, Python and SQL
   </br>
-- 📫 How to reach me: kaio.svalls@gmail.com
+- 📫 How to reach me:vallsbusiness.acc@gmail.com
 
   </br>
 - 😄 Also learning Networking Fundamentals and Security and Data Treatment 
