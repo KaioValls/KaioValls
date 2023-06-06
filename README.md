@@ -4,7 +4,7 @@
 
  <div align="center">
    </br>
-- 🌱 I’m currently learning Java, C#, .NET, Python and SQL
+- 🌱 I’m currently coding in Java and Python using SpringBoot, Flask and MySQL.
   </br>
 - 📫 How to reach me:vallsbusiness.acc@gmail.com
 
