@@ -26,11 +26,6 @@
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=KaioValls&layout=compact&langs_count=7&theme=tokyonight"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioValls&layout=compact&langs_count=7&theme=tokyonight"/>
   
 </div>
-
-##
-<div  align="center">
- <a href="https://app.daily.dev/KaioValls"><img src="https://api.daily.dev/devcards/486feb81c12f4871bcdd0a777a771f05.png?r=ccg" width="300" alt="Kaio's Dev Card"/></a>
-  </div>
   
 
 
